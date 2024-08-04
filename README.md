@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on getting my Bacherlors Degree in Computer Science with a Minor in Mathematics 
+- 🌱 I’m currently learning Microsoft D365 development as an intern
+- 📫 How to reach me: colinftrujillo@outlook.com
+
+Thanks for Visiting!
 <!--
 **cftrujillo/cftrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
