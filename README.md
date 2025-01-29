@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on getting my Bachelor's degree in Computer Science with a Minor in Mathematics 
-- 🌱 I’m currently learning Microsoft D365 software development as an intern
+- 🌱 I’m finishing my last semester at Colorado State University
 - 📫 How to reach me: colinftrujillo@outlook.com
 
 Thanks for Visiting!
