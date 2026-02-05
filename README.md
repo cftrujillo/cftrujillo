@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on getting my Bachelor's degree in Computer Science with a Minor in Mathematics 
-- 🌱 I’m finishing my last semester at Colorado State University
+- 🔭 I’m currently working at SpaceNav as a Software Engineer I
 - 📫 How to reach me: colinftrujillo@outlook.com
 
 Thanks for Visiting!
